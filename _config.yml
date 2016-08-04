@@ -1,15 +1,16 @@
-layout_spectrum: 0.937081735348329
-typography_spectrum: 0.6409407833125442
+typography_spectrum: 0.28217623149976134
 color:
-  brandStrength: 0.2288705890532583
-  lightness: 0.6407232161145657
-  saturation: 0.1824064392130822
-  rhythmicContrast: 0.9125399149488658
+  brandStrength: 0.5478245532140136
+  lightness: 0.2910657846368849
+  saturation: 0.9877917054109275
+  rhythmicContrast: 0.7121787054929882
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.937081735348329
 name: surindrapati
 title: 'Surindrapati''s '
+description: Director/Dop Showreel
